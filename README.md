@@ -15,12 +15,12 @@ Site theme based on _Identity_ by HTML5 UP:
 > html5up.net | @n33co
 
 > Free for personal and commercial use under the
-> [CCA 3.0 license](html5up.net/license)
+> [CCA 3.0 license](http://html5up.net/license)
 
 > Credits:
->* [Phil Ewels](phil.ewels.co.uk)
->* [Font Awesome](fortawesome.github.com/Font-Awesome)
+>* [Phil Ewels](http://phil.ewels.co.uk)
+>* [Font Awesome](http://fortawesome.github.com/Font-Awesome)
 >* html5shiv.js (@afarkas @jdalton @jon_neal @rem)
->* [CSS3 Pie](css3pie.com)
->* [Respond.js](j.mp/respondjs)
->* [Skel](skel.io)
+>* [CSS3 Pie](http://css3pie.com)
+>* [Respond.js](http://j.mp/respondjs)
+>* [Skel](http://skel.io)
