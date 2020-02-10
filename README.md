@@ -11,7 +11,7 @@ Background photo taken by Shana Kronish, showing Milford Sound in New Zealand in
 Flipping animation based on a [tutorial](https://davidwalsh.name/css-flip)
 by David Walsh.
 
-Site theme based on _Identity_ by HTML5 UP:
+Site theme based on _Identity_ by HTML5 UP: 
 > html5up.net | @n33co
 
 > Free for personal and commercial use under the
