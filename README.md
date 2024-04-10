@@ -1,7 +1,7 @@
 # Glickmac.github.io
 
 The repository holds the code used on my mini-website  
-[glickmac.github.io](http://glickmac.github.io).
+[glickmac.github.io](http://glickmac.github.io). 
 
 Feel free to use any of this code as you wish.
 It's released under a [Creative Commons Attribution-ShareAlike 3.0 International License](http://creativecommons.org/licenses/by/3.0/).
