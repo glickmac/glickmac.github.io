@@ -9,7 +9,7 @@ It's released under a [Creative Commons Attribution-ShareAlike 3.0 International
 Background photo taken by Shana Kronish, showing Milford Sound in New Zealand in the Summer of 2017. 
 
 Flipping animation based on a [tutorial](https://davidwalsh.name/css-flip)
-by David Walsh.
+by David Walsh. 
 
 Site theme based on _Identity_ by HTML5 UP: 
 > html5up.net | @n33co
